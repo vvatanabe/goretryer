@@ -61,7 +61,7 @@ func main() {
 
 ## Acknowledgments
 
-See [aws/aws/client/default_retryer.go](https://github.com/aws/aws-sdk-go/blob/84fbd57ef75762a07aade079776907d01be3891d/aws/client/default_retryer.go) for great origins.
+See [aws-sdk-go/aws/client/default_retryer.go](https://github.com/aws/aws-sdk-go/blob/84fbd57ef75762a07aade079776907d01be3891d/aws/client/default_retryer.go) for great origins.
 
 ## Bugs and Feedback
 
